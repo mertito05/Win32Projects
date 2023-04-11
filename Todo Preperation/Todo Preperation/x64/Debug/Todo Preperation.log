@@ -1,0 +1,7 @@
+﻿  Todo Preperation.cpp
+C:\Users\123\source\repos\Todo Preperation\Todo Preperation\Todo Preperation.cpp(238,41): warning C4244: 'argument': conversion from 'LRESULT' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Todo Preperation.vcxproj -> C:\Users\123\source\repos\Todo Preperation\x64\Debug\Todo Preperation.exe
