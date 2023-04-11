@@ -1,0 +1,3 @@
+﻿  InterestingProjects.cpp
+C:\Users\123\source\repos\InterestingProjects\InterestingProjects\InterestingProjects.cpp(297,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  InterestingProjects.vcxproj -> C:\Users\123\source\repos\InterestingProjects\x64\Debug\InterestingProjects.exe
